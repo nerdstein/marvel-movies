@@ -1,5 +1,5 @@
 # Learning Git workflows: Marvel Movies lesson
-Demo for Juniata's IT-342 class
+Demo for Juniata's IT-342 class. Made in memorial of Stan Lee. 
 
 This lesson is to be done with at least one peer to demonstrate remote Git workflows.
 
