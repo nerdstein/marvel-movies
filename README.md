@@ -25,7 +25,7 @@ On your system, run the following commands to clone to your local.
 
 You should now have a `marvel-movies` directory.
 
-## Lesson 2: issues
+## Lesson 3: issues
 
 Making issues is a critical way to collaborate on improvements to projects. 
 
@@ -35,7 +35,7 @@ On github, perform the following steps.
 1. Click on "New Issue" button
 1. Describe your proposed change and save
 
-## Lesson 3: working on an issue
+## Lesson 4: working on an issue
 
 1. assign yourself an issue and note the issue number, e.g. 4
 1. on your local, make a new branch: `git checkout -b issue-4` where 4 is the issue number
@@ -49,7 +49,7 @@ On github, perform the following steps.
 1. your peer should submit a review to accept or reject changes
 1. once approved, your peer should merge the pull request
 
-## Lesson 4: retrieving changes
+## Lesson 5: retrieving changes
 
 Changes can be merged in at any time in the remote repository. It is best to frequently pull changes.
 
