@@ -44,12 +44,19 @@ On github, perform the following steps.
 1. verify the name of your remote repo: `git remote -v`, you should see `origin`
 1. push your work to a remote branch on Github: `git push origin issue-4`
 1. go to Github, you should see a "issue-4, compare and make pull request" message with a button
-1. create a pull request and assign it to your peer
+
+
+### Lesson 5: reviewing an issue
+
+
+1. when you have an open a pull request, assign it to your peer to review by opening the pull request and clicking the "gear" next to "assign" on the right column
 1. have your peer review your change through the "pull requests" tab on github
 1. your peer should submit a review to accept or reject changes
 1. once approved, your peer should merge the pull request
 
-## Lesson 5: retrieving changes
+While this link may have delays, you should see your change (at this link)[https://htmlpreview.github.io/?https://raw.githubusercontent.com/nerdstein/marvel-movies/master/index.html].
+
+## Lesson 6: retrieving changes
 
 Changes can be merged in at any time in the remote repository. It is best to frequently pull changes.
 
