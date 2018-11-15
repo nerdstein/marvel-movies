@@ -6,7 +6,7 @@ This lesson is to be done with at least one peer to demonstrate remote Git workf
 ## Lesson 1: preparation
 
 On your system, please make sure you have Git installed on your system and a text editor of your choosing. Please configure 
-your Github profile to use (SSH keys)[https://help.github.com/articles/connecting-to-github-with-ssh/].
+your Github profile to use [SSH keys](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
 Before starting the lessons, please load a terminal and Github. Email `nerdstein@gmail.com` with the Github usernames of 
 those participating. I'll send an invite you will need to accept before assignment/merging is possible.
@@ -31,7 +31,7 @@ Making issues is a critical way to collaborate on improvements to projects.
 
 On github, perform the following steps.
 
-1. Click on the (issues tab of the repository)[https://github.com/nerdstein/marvel-movies/issues]
+1. Click on the [issues tab of the repository](https://github.com/nerdstein/marvel-movies/issues)
 1. Click on "New Issue" button
 1. Describe your proposed change and save
 
@@ -54,7 +54,7 @@ On github, perform the following steps.
 1. your peer should submit a review to accept or reject changes
 1. once approved, your peer should merge the pull request
 
-While this link may have delays, you should see your change (at this link)[https://htmlpreview.github.io/?https://raw.githubusercontent.com/nerdstein/marvel-movies/master/index.html].
+While this link may have delays, you should see your change [at this link](https://htmlpreview.github.io/?https://raw.githubusercontent.com/nerdstein/marvel-movies/master/index.html).
 
 ## Lesson 6: retrieving changes
 
